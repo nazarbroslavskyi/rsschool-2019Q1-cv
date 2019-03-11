@@ -70,35 +70,26 @@
 	margin-top: 10px;
 }
 
+.main__education {
+	margin-top: 10px;
+}
 
+.main__lang-skills {
+	background: #f57c71;
+	margin-bottom: 10px;
+	border-radius: 15px;
+	padding: 30px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.main__lang-skills-list {
+	list-style-type: none;
+}
 
 footer {
 	width: 1024px;
 	background: #f57c71;
 	border-radius: 15px;
+	margin-top: 30px;
 }
 
 footer .paragraph {
