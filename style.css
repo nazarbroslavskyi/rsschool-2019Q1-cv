@@ -30,11 +30,77 @@
 }
 
 .main__summary {
-	margin-top: 20px;
-	margin-bottom: 20px;
+	margin: 20px;
 }
 
 .main__main-goal {
 	color: #faa91c;
 }
 
+.main__skills {
+	margin-bottom: 10px;
+}
+
+.main__list-skills,
+.main__experience-list {
+	list-style-type: none;
+}
+
+.main__skills-cont {
+	margin-top: 10px;
+	max-width: 1024px;
+	background: #f57c71;
+	padding: 30px;
+	border-radius: 20px;
+
+}
+
+.main__code-example {
+	margin-top: 10px;
+}
+
+.main__experience {
+	margin-bottom: 10px;
+}
+
+.main__experience-cont {
+	background:  #f57c71;
+	border-radius: 15px;
+	padding: 30px;
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+	width: 1024px;
+	background: #f57c71;
+	border-radius: 15px;
+}
+
+footer .paragraph {
+	padding-left: 20px;
+}
