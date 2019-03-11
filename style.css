@@ -1,0 +1,40 @@
+* {
+	font-family: 'Open Sans', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+.header {
+	background: #f57c71;
+	border-radius: 20px;
+	display: flex;
+	padding: 30px;
+	justify-content: space-between;
+}
+
+.header .my-own-image {
+	border-radius: 5px;
+}
+
+.wrapper {
+	background: #fcf688;
+}
+
+.contact-information {
+	align-self: center;
+}
+
+.main__summary {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.main__main-goal {
+	color: #faa91c;
+}
+
